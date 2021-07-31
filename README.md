@@ -2,8 +2,17 @@
 
 ### Organized By NEC & Mitsubishi Corporation
 
-### THEME: VALUE ADDITION IN INDIAN MIDDLE-CLASS RESIDENTIAL    PROPERTIES
+### THEME 
+
+Value addition in Indian middle class residential properties
+## Technologies to be Integrated
+
+- STRONG SECURITY SYSTEM
+- HYGIENIC ENVIRONMENT
+- AUTOMATIC SANITIZATION
+- USE OF CONVERTIBLE ITEMS
+- USE OF SMART APPLIANCES
 
 ## TeamX
-- Sambid Anand Bharadwaj
-- Debashish Kumar Sahoo
+- [Sambid Anand Bharadwaj](https://github.com/sams14)
+- [Debashish Kumar Sahoo](https://github.com/Debashish-hub)
